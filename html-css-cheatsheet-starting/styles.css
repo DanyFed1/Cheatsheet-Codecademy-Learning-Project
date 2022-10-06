@@ -1,0 +1,59 @@
+body{
+    background-color: lightcoral;
+    align-items: center;
+    align: center; 
+}
+
+h1 {
+    font-family: "Lucida Console", Courier, monospace;
+    height: 50px;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    font-family: "Lucida Console", Courier, monospace;
+    height: 70px;
+    padding: 30px;
+    text-align: center;
+
+}
+
+li {
+    font-family: "Lucida Console", Courier, monospace;
+    height: 1px;
+    padding: 30px;
+    text-align: center;
+}
+
+h2{
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+
+
+table, td{
+    border: 1px solid #333;
+    border-color:blueviolet;
+    background-color: aliceblue;
+    padding: 10px;;
+}
+
+table, th{
+    border: 1px solid #333;
+    background-color:blueviolet;
+    font-family: "Lucida Console", Courier, monospace;
+    
+}
+
+footer, h5{
+    font-family: fantasy;
+    text-align: center;
+}
+
+
+
+
+
+
+
